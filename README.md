@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Jaden
 - 👀 I’m interested in playing music, automation, puzzles
 - 🌱 I’m currently learning C#
-- 💞 To get in touch with me, you can contact me on [Discord]https://discordapp.com/users/95461045954412544)! 
+- 💞 To get in touch with me, you can contact me on [Discord](https://discordapp.com/users/95461045954412544)! 
 
 
 Programming is something that I enjoy for the fact that it involves a lot of creative thinking to start a project, but the program itself must be logical, otherwise it won't work.
