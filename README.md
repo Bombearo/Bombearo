@@ -1,7 +1,7 @@
 # Welcome! Some quick facts about me:
 - 👋 Hi, I’m Jaden
 - 👀 I’m interested in playing music, automation, puzzles
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Java
 - 💞 To get in touch with me, you can contact me on [Discord](https://discordapp.com/users/95461045954412544)! 
 
 
@@ -13,9 +13,10 @@ As I said earlier, my name is Jaden, but you can call me Bombearo if you want! I
 - Python
 - HTML
 - CSS
-- JavaScript (Very Basic)
+- JavaScript (Preferred framework: Vue.js)
 - C# 
-- Haskell (which I'm currently learning)
+- Haskell 
+- Java (which I'm currently learning)
 
 Currently, I'm experimenting with different niches and languages to see what I like doing more, and can see myself doing in the future. My primary focus at the moment is fullstack web development.
 
