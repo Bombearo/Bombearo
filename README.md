@@ -1,8 +1,8 @@
 # Welcome! Some quick facts about me:
 - 👋 Hi, I’m Jaden
 - 👀 I’m interested in playing music, automation, puzzles
-- 🌱 I’m currently learning Java
-- 💞 To get in touch with me, you can contact me on [Discord](https://discordapp.com/users/95461045954412544)! 
+- 🌱 I’m currently learning C# .NET
+- 📩 To get in touch with me, you can contact me on [Discord](https://discordapp.com/users/95461045954412544)! 
 
 
 Programming is something that I enjoy for the fact that it involves a lot of creative thinking to start a project, but the program itself must be logical, otherwise it won't work.
@@ -16,7 +16,7 @@ As I said earlier, my name is Jaden, but you can call me Bombearo if you want! I
 - JavaScript (Preferred framework: Vue.js)
 - C# 
 - Haskell 
-- Java (which I'm currently learning)
+- Java
 
 Currently, I'm experimenting with different niches and languages to see what I like doing more, and can see myself doing in the future. My primary focus at the moment is fullstack web development.
 
