@@ -1,6 +1,6 @@
 # Welcome! Some quick facts about me:
 - 👋 Hi, I’m Jaden
-- 👀 I’m interested in playing music, automation, puzzles
+- 👀 I’m interested in playing music, automation, and acting
 - 🌱 I’m currently learning C# .NET
 - 📩 To get in touch with me, you can contact me on [Discord](https://discordapp.com/users/95461045954412544)! 
 
