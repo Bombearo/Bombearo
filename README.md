@@ -9,11 +9,11 @@ Programming is something that I enjoy for the fact that it involves a lot of cre
 ## Who am I?
 
 Programming is something that I enjoy for the fact that it involves a lot of creative thinking to start a project, but the program itself must be logical, otherwise it won't work.
-As I said earlier, my name is Jaden, but you can call me Bombearo if you want! I'm an 18 year old developer who has a strong interest in both programming and music. My skills include:
+As I said earlier, my name is Jaden, but you can call me Bombearo if you want! I'm a 22 year old developer who has a strong interest in both programming and music. My skills include:
 - Python
 - HTML
 - CSS
-- JavaScript (Preferred framework: Vue.js)
+- JavaScript
 - C# 
 - Haskell 
 - Java
